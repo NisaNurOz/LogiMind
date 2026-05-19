@@ -682,7 +682,7 @@ with col_data:
             ),
         },
         hide_index=True,
-        num_rows="fixed",
+        num_rows="dynamic",
         height=420,
         width="stretch",
         key="customers_data_editor",
