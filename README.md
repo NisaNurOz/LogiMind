@@ -4,7 +4,7 @@ LogiMind, lojistik ve dağıtım operasyonlarını optimize etmek amacıyla geli
 
 ## 🚀 Canlı Uygulama Linki
 Uygulamayı tarayıcınızda anında deneyimlemek için aşağıdaki bağlantıya tıklayabilirsiniz:
-👉 **[LogiMind Canlı Demo](https://logimind.streamlit.app)**
+👉 **[LogiMind Canlı Demo](https://logimind-9kbhgzk3cafzhmz3x8cwqf.streamlit.app/)**
 
 ---
 
