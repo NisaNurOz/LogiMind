@@ -1,6 +1,0 @@
-[client]
-# ⋮ menüsü açık; Deploy düğmesi gizli
-toolbarMode = "viewer"
-
-[browser]
-gatherUsageStats = false
