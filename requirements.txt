@@ -1,0 +1,7 @@
+streamlit
+ortools
+google-generativeai
+pandas
+matplotlib
+folium
+streamlit-folium
